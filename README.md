@@ -3,7 +3,7 @@
 [![Node.js 18+](https://img.shields.io/badge/Node.js-18%2B-339933?logo=node.js&logoColor=white)](#)
 [![LINE Messaging API](https://img.shields.io/badge/LINE%20Messaging%20API-v3-00C300?logo=line&logoColor=white)](#)
 [![Google Sheets API](https://img.shields.io/badge/Google%20Sheets-API-34A853?logo=googlesheets&logoColor=white)](#)
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](#)
+
 
 บอท LINE สำหรับบันทึก/สรุป "ปริมาณน้ำตาลจากเครื่องดื่ม" พิมพ์ชื่อเมนู + จำนวนแก้ว/ปริมาตร แล้วบอทจะคำนวณน้ำตาลจากฐาน **600 ml** เก็บข้อมูลลง **Google Sheets** พร้อม **Quick Reply**, **Rich Menu**, และ **แจ้งเตือนเป็นช่วงเวลา** ด้วย `node-cron`.
 
@@ -248,4 +248,4 @@ taskkill /PID <PID> /F
 
 ## 📄 License
 
-MIT © 2025 Thanakrit Sricharung
+WU © 2025 Thanakrit Sricharung
