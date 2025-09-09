@@ -23,11 +23,16 @@
 ---
 
 ## 🖼️ ภาพตัวอย่าง
-> วางไฟล์ภาพลงใน `docs/images/` ตามชื่อด้านล่าง
 
-- `docs/images/cover.png` — ปกโปรเจกต์  
-- `docs/images/chat-demo.png` — แชตตัวอย่าง  
-- `docs/images/qr-add-friend.png` — QR เพิ่มเพื่อน (ถ้ามี)
+### ปกโปรเจกต์
+<img src="https://media.discordapp.net/attachments/798105648168304643/1414878143109529641/59849f94-9ba0-4a71-877f-b776c173dcdb.jpg?ex=68c12b74&is=68bfd9f4&hm=7169e2d91ca76bc24bbf357c090f8d3b603299a3e4c135fe042e025bdc34cbec&=&format=webp&width=240&height=519" width="300" />
+
+### แชตตัวอย่าง
+<img src="https://media.discordapp.net/attachments/798105648168304643/1414878142241439814/852d3d3d-0535-4088-a64c-012834146d82.jpg?ex=68c12b74&is=68bfd9f4&hm=13869b25a7a4e6ea88c59f2d354893d0333e493c0d6406cfd264dc993b9d6004&=&format=webp&width=381&height=824" width="300" />
+
+### QR เพิ่มเพื่อน
+<img src="https://media.discordapp.net/attachments/798105648168304643/1414878143713640458/d5375da0-cb47-4134-b78d-3deac5756768.jpg?ex=68c12b74&is=68bfd9f4&hm=4f1f62767975c22b4096469d003049f385691bf672a2e5634f51c4375f1a5f3d&=&format=webp" width="200" />
+
 
 ```text
 .
