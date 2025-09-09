@@ -36,13 +36,19 @@
 
 ```text
 .
+├─ node_modules
 ├─ server.js
 ├─ README.md
-└─ docs/
-   └─ images/
-      ├─ cover.png
-      ├─ chat-demo.png
-      └─ qr-add-friend.png
+└─ line-sugar-bot/
+   └─ .env
+   └─ data
+   └─ get-richmenu.js
+   └─ package
+   └─ package-lock
+   └─ server.js
+   └─ test-webhook.js
+   
+      
 ```
 
 ---
