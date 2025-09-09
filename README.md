@@ -36,10 +36,9 @@
 
 ```text
 .
-├─ node_modules
-├─ server.js
 ├─ README.md
 └─ line-sugar-bot/
+   └─ node_modules
    └─ .env
    └─ data
    └─ get-richmenu.js
